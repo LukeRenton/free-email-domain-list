@@ -34,7 +34,7 @@ else:
 
 ## Contributing
 
-Contributions are welcome! If you want to add or update any free email domains, feel free to submit a pull request.
+Contributions are welcome! If you want to add or update any free email domains or include wrappers for any other languages, feel free to submit a pull request.
 
 ## License
 
