@@ -4766,5 +4766,17 @@ whitelist = {
     "zzn.com",
     "zzom.co.uk",
     "zzz.com",
-    "zzz.pl"
+    "zzz.pl",
+
+    # New domains added (CURRENT DATE: 2026-02-23)
+    "gmx.info",
+    "hotmail.com.ar",
+    "mmail.com",
+    "o2.pl",
+    "offilive.com",
+    "pm.me",
+    "proton.me",
+    "protonmail.ch",
+    "talktalk.net",
+    "telus.net",
 }
